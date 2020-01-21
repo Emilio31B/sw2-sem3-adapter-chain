@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^13.1.7",
+    "@types/node": "^13.1.8",
+    "@types/pouchdb": "^6.4.0",
     "@types/sqlite3": "^3.1.6",
+    "pouchdb": "^7.1.1",
+    "save": "^2.4.0",
     "sqlite3": "^4.1.1"
   }
 }
